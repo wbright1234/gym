@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="37.333" viewBox="0 0 56 37.333">
+  <g id="credit-card" transform="translate(0 -85.333)">
+    <g id="Group_92" data-name="Group 92" transform="translate(0 85.333)">
+      <g id="Group_91" data-name="Group 91">
+        <path id="Path_282" data-name="Path 282" d="M50.167,85.333H5.833A5.841,5.841,0,0,0,0,91.166v25.667a5.841,5.841,0,0,0,5.833,5.833H50.167A5.841,5.841,0,0,0,56,116.833V91.166A5.841,5.841,0,0,0,50.167,85.333Zm3.5,31.5a3.5,3.5,0,0,1-3.5,3.5H5.833a3.5,3.5,0,0,1-3.5-3.5V91.166a3.5,3.5,0,0,1,3.5-3.5H50.167a3.5,3.5,0,0,1,3.5,3.5v25.667Z" transform="translate(0 -85.333)" fill="#364954"/>
+      </g>
+    </g>
+    <g id="Group_94" data-name="Group 94" transform="translate(0 92.333)">
+      <g id="Group_93" data-name="Group 93">
+        <path id="Path_283" data-name="Path 283" d="M54.833,149.333H1.167A1.167,1.167,0,0,0,0,150.5v7a1.167,1.167,0,0,0,1.167,1.167H54.833A1.167,1.167,0,0,0,56,157.5v-7A1.167,1.167,0,0,0,54.833,149.333Zm-1.167,7H2.333v-4.667H53.666v4.667Z" transform="translate(0 -149.333)" fill="#364954"/>
+      </g>
+    </g>
+    <g id="Group_96" data-name="Group 96" transform="translate(7 108.666)">
+      <g id="Group_95" data-name="Group 95">
+        <path id="Path_284" data-name="Path 284" d="M79.167,298.667h-14a1.167,1.167,0,1,0,0,2.333h14a1.167,1.167,0,1,0,0-2.333Z" transform="translate(-64 -298.667)" fill="#364954"/>
+      </g>
+    </g>
+    <g id="Group_98" data-name="Group 98" transform="translate(7 113.333)">
+      <g id="Group_97" data-name="Group 97">
+        <path id="Path_285" data-name="Path 285" d="M79.167,341.333h-14a1.167,1.167,0,1,0,0,2.333h14a1.167,1.167,0,1,0,0-2.333Z" transform="translate(-64 -341.333)" fill="#364954"/>
+      </g>
+    </g>
+    <g id="Group_100" data-name="Group 100" transform="translate(39.667 106.333)">
+      <g id="Group_99" data-name="Group 99">
+        <path id="Path_286" data-name="Path 286" d="M368.5,277.333h-2.333a3.5,3.5,0,0,0-3.5,3.5v2.333a3.5,3.5,0,0,0,3.5,3.5H368.5a3.5,3.5,0,0,0,3.5-3.5v-2.333A3.5,3.5,0,0,0,368.5,277.333Zm1.167,5.833a1.167,1.167,0,0,1-1.167,1.167h-2.333A1.167,1.167,0,0,1,365,283.166v-2.333a1.167,1.167,0,0,1,1.167-1.167H368.5a1.167,1.167,0,0,1,1.167,1.167Z" transform="translate(-362.667 -277.333)" fill="#364954"/>
+      </g>
+    </g>
+  </g>
+</svg>

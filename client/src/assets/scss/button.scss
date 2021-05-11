@@ -1,0 +1,27 @@
+button {
+  font-family: 'Poppins';
+}
+
+button.bg-blue:focus {
+  background-color: #45BCEC !important;
+}
+
+button.bg-white:hover {
+  background-color: #0087B4 !important;
+}
+
+button.bg-white:focus {
+  background-color: #0087B4 !important;
+}
+
+.tint-color {
+  color: #45BCEC !important;
+}
+
+.border-tint {
+  border-color: #45BCEC !important;
+}
+
+.border-grey {
+  border-color: #E3E3E3 !important;
+}

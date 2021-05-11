@@ -1,0 +1,28 @@
+input {
+  font-family: 'Poppins';
+}
+
+/* Change the white to any color ;) */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+/*input[type='radio']:after {
+    width: 15px;
+    height: 15px;
+    top: -1px;
+    border-radius: 15px;
+    position: relative;
+    background-color: #d1d3d1;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid white;
+}*/
+
+input[type='radio']:checked:after {
+    background-color: #45BCEC;
+}
